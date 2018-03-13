@@ -1,0 +1,6 @@
+[submodule "lib/e-Paper-HAT-27-quick"]
+	path = lib/e-Paper-HAT-27-quick
+	url = https://github.com/GodCed/e-Paper-HAT-27-quick.git
+[submodule "lib/Adafruit-MCP23008-library"]
+	path = lib/Adafruit-MCP23008-library
+	url = https://github.com/adafruit/Adafruit-MCP23008-library.git
